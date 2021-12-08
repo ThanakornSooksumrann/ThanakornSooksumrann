@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ThanakornSooksumrann
 - 👀 I’m interested in game
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Code
+- 📫 How to reach me IG:Chronicle_th
 
 <!---
 ThanakornSooksumrann/ThanakornSooksumrann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
